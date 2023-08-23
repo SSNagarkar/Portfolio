@@ -1,4 +1,5 @@
-# Projects
+# Portfolio
+
 List of projects in masters
 
 1. chat-app : This is a multi-user chat application built using Vanilla JavaScript and React JS framework on frontend
